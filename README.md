@@ -1,2 +1,2 @@
 # ProgramareAvansata
-Alex Vasilica
+Alex Vasilica 2A2
