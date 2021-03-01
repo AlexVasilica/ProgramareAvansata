@@ -1,13 +1,13 @@
 # ProgramareAvansata - Lab 2
 Alex Vasilica 2A2
-#The transportation problem
 
-The Transportation Problem
+# The transportation problem
+
 An instance of the Transportation Problem consists of source and destinations.
 
-Each source has a given capacity, i.e. how many units of a commodity it is able to supply to the destinations.
-Each destination demands a certain amount of commodities.
-The cost of transporting a unit of commodity from each source to each destination is given by a cost matrix (or function).
+- Each source has a given capacity, i.e. how many units of a commodity it is able to supply to the destinations.
+- Each destination demands a certain amount of commodities.
+- The cost of transporting a unit of commodity from each source to each destination is given by a cost matrix (or function).
 We consider the problem of determining the quantities to be transported from sources to destinations, in order to minimize the total transportation cost. The supply and demand constraints must be satisfied. (We may assume that all the values are integer).
 
 Consider the following example.
