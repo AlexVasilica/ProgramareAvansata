@@ -1,4 +1,3 @@
-![tabel lab2](https://user-images.githubusercontent.com/48411835/109495836-7c106900-7a98-11eb-9f00-ac369a3a5ad7.png)
 # ProgramareAvansata - Lab 2
 Alex Vasilica 2A2
 
@@ -12,11 +11,7 @@ An instance of the Transportation Problem consists of source and destinations.
 We consider the problem of determining the quantities to be transported from sources to destinations, in order to minimize the total transportation cost. The supply and demand constraints must be satisfied. (We may assume that all the values are integer).
 
 Consider the following example.
-D1	D2	D3	Supply
-S1	2	3	1	10
-S2	5	4	8	35
-S3	5	6	8	25
-Demand	20	25	25	
+![tabel lab2](https://user-images.githubusercontent.com/48411835/109495836-7c106900-7a98-11eb-9f00-ac369a3a5ad7.png)
 A solution may be something like that:
 
 S1 -> D3: 10 units * cost 1 = 10
