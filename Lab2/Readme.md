@@ -16,9 +16,9 @@ Consider the following example.
 
 A solution may be something like that:
 
-S1 -> D3: 10 units * cost 1 = 10
-S2 -> D2: 25 units * cost 4 = 100
-S2 -> D3: 10*8 = 80
-S3 -> D1: 20*5 = 100
-S3 -> D3: 5*8 = 40
-Total cost: 330
+- S1 -> D3: 10 units * cost 1 = 10
+- S2 -> D2: 25 units * cost 4 = 100
+- S2 -> D3: 10*8 = 80
+- S3 -> D1: 20*5 = 100
+- S3 -> D3: 5*8 = 40
+- Total cost: 330
