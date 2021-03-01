@@ -21,7 +21,7 @@ A solution may be something like that:
 - S2 -> D3: 10*8 = 80
 - S3 -> D1: 20*5 = 100
 - S3 -> D3: 5*8 = 40
-- Total cost: 330
+Total cost: 330
 
 # Compulsory
 
