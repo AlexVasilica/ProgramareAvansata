@@ -1,3 +1,4 @@
+![tabel lab2](https://user-images.githubusercontent.com/48411835/109495836-7c106900-7a98-11eb-9f00-ac369a3a5ad7.png)
 # ProgramareAvansata - Lab 2
 Alex Vasilica 2A2
 
