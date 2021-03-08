@@ -11,8 +11,8 @@ The main specifications of the application are:
 
 # Compulsory
 
--Create an object-oriented model of the problem. You should have at least the following classes City, Hotel, Museum, Church, Restaurant. The natural ordering of their objects is given by their names.
--Create the interfaces Visitable, Payable, Classifiable. The classes above must implement these interfaces accordingly.
--The City class will contain a List of locations.
--Each location will contain a Map representing the times required to go from this location to others.
--Create all the objects given in the example.
+- Create an object-oriented model of the problem. You should have at least the following classes City, Hotel, Museum, Church, Restaurant. The natural ordering of their objects is given by their names.
+- Create the interfaces Visitable, Payable, Classifiable. The classes above must implement these interfaces accordingly.
+- The City class will contain a List of locations.
+- Each location will contain a Map representing the times required to go from this location to others.
+- Create all the objects given in the example.
