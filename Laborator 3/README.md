@@ -4,3 +4,5 @@ A tourist is about to visit a city. In this city, there are various locations su
 The time (in minutes) required to go from one location to another is known. The tourist has also preferences regarding the order in which he (or she) would like to visit some locations.
 
 Example: locations are: v1 (Hotel) v2 (Museum A) v3 (Museum B) v4 (Church A) v5 (Church B) v6 (Restaurant).
+
+![lab3](https://user-images.githubusercontent.com/48411835/110334356-5ac8f300-802b-11eb-91d0-4ddc67cf8b5c.png)
