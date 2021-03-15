@@ -3,7 +3,7 @@ An instance of SAP involves a set of students and a set of high schools, each st
 Example: 4 students S0,S1,S2,S3, 3 high schools H0,H1,H2, capacity(H0)=1, capacity(H1)=2, capacity(H2)=2.
 
 **Students preferences**
-S0: (H0, H1, H2)<\n>
+S0: (H0, H1, H2)
 S1: (H0, H1, H2)
 S2: (H0, H1)
 S3: (H0, H2)
