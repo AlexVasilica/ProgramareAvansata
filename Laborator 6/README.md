@@ -6,6 +6,7 @@ You may use either Swing or JavaFX.
 The main specifications of the application are:
 
 **Compulsory**
+
 Create the following components:
 - The main frame of the application.
 - A configuration panel for introducing parameters regarding the shapes that will be drawn: the size, the number of sides, the stroke, etc.
